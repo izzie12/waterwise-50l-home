@@ -2,7 +2,7 @@
 
 ## Dissertation Project for BSc (Hons) Computer Science
 ### University of East London
-### Academic Year 2023-2024
+### Academic Year 2024-2025
 
 ## Project Overview
 WaterWise is a comprehensive web application developed as part of my final year dissertation for the BSc (Hons) Computer Science degree. The project aims to address the critical issue of water conservation through education and user engagement, combining modern web technologies with sustainable practices.
@@ -146,7 +146,7 @@ This project follows a systematic approach to software development and research:
 - Research participants
 
 ## Author
-[Your Name]
+Isaac Ntegeka
 BSc (Hons) Computer Science
 University of East London
 
