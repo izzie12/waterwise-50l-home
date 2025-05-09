@@ -160,4 +160,4 @@ For academic inquiries:
 
 ---
 
-*This project was developed as part of the final year dissertation for the BSc (Hons) Computer Science degree at the University of East London. The research and development were conducted under the supervision of [Supervisor's Name].* 
+*This project was developed as part of the final year dissertation for the BSc (Hons) Computer Science degree at the University of East London. The research and development were conducted under the supervision of Ms. Halima Kure.* 
